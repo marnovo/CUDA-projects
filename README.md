@@ -1,6 +1,6 @@
-# NVIDIA GPU CUDA Programming practice
+# CUDA GPU programming projects
 
-Repository for storing practice projects for CUDA. 
+Repository for storing practice projects for [NVIDIA CUDA](http://docs.nvidia.com/cuda/) GPU programming. 
 
 Ideally side-by-side comparisons between CPU-run and GPU-run code.
 
